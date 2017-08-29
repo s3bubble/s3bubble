@@ -8,7 +8,7 @@ Here you can download the JavaScript library to use within your own projects
 
 ## Live Examples
 
-[Theme Demo](https://s3bubble.com/documentation)
+[S3Bubble Official Documentation](https://s3bubble.com/documentation)
 
 ## Installation & Setup
 
