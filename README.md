@@ -4,7 +4,7 @@ Here you can download the JavaScript library to use within your own projects
 
 ## Latest Release
 
-[Download](https://github.com/s3bubble/Streamium-Netflix-Theme/releases)
+[Download](https://github.com/s3bubble/s3bubble/releases)
 
 ## Live Examples
 
