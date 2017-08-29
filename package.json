@@ -1,0 +1,27 @@
+{
+  "name": "s3bubble-javascript",
+  "version": "1.0.0",
+  "description": "Main S3Bubble JS Library",
+  "main": "s3bubble.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-s3bubble:s3bubble/s3bubble.git"
+  },
+  "keywords": [
+    "AWS",
+    "Amazon",
+    "JWPlayer",
+    "VideoJS",
+    "Cloudfront",
+    "S3",
+    "Cloud",
+    "Netflix",
+    "Video",
+    "Audio"
+  ],
+  "author": "S3Bubble",
+  "license": "ISC"
+}
