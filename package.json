@@ -1,6 +1,6 @@
 {
   "name": "s3bubble-javascript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Main S3Bubble JS Library",
   "main": "s3bubble.min.js",
   "scripts": {
