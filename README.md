@@ -1,4 +1,4 @@
-## S3bubble JavaScript Library
+## S3Bubble JavaScript Library
 
 Here you can download the JavaScript library to use within your own projects
 
