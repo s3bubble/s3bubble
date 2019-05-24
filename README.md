@@ -1,6 +1,8 @@
 ## S3Bubble JavaScript Library
 
-Here you can download the JavaScript library to use within your own projects
+Here you can download the JavaScript library to use within your own projects.
+
+If you need help setting up secure DRM streaming please contact us at [S3Bubble](https://s3bubble.com/contact/)
 
 ## Getting Started
 
