@@ -38,8 +38,5 @@ You can use unpkg.com hosted versions
 
 [S3Bubble Official Documentation](https://s3bubble.com/documentation)
 
-## Installation & Setup
-
-Download and add the files to your project
-
 ## Change Log
+
