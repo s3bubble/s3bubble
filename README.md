@@ -18,7 +18,7 @@ Make sure you add your website to your S3Bubble account in the dashboard.
   <link rel="stylesheet" href="https://unpkg.com/s3bubble-javascript/s3bubble.min.css" />
 </head>
 <body>
-  <div class="s3bubble" data-code="prrytt"></div>
+  <div class="s3bubble" data-code="enter-your-code-here"></div>
   <script src="https://unpkg.com/s3bubble-javascript/s3bubble.min.js"></script>
 </body>
 </html>
